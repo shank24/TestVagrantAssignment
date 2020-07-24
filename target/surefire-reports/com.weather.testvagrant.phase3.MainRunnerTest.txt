@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.weather.testvagrant.phase3.MainRunnerTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 45.306 sec

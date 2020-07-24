@@ -1,0 +1,9 @@
+com/weather/testvagrant/phase1/pages/common/AbstractComponent.class
+com/weather/testvagrant/phase1/pages/result/WeatherResultStat.class
+com/weather/testvagrant/phase1/util/conversion/NumberUtil.class
+com/weather/testvagrant/phase1/util/propertyReader/ObjectReader.class
+com/weather/testvagrant/phase1/util/propertyReader/ConfigReader.class
+com/weather/testvagrant/phase1/pages/main/NDTVMainPage.class
+com/weather/testvagrant/phase1/pages/common/FilterCity.class
+com/weather/testvagrant/phase1/pages/common/WeatherPage.class
+com/weather/testvagrant/phase1/util/propertyReader/PropertyReader.class

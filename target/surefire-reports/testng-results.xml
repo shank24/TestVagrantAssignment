@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.weather.testvagrant.phase3.MainRunnerTest" duration-ms="45056" started-at="2020-07-24T01:13:37Z" finished-at="2020-07-24T01:14:22Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="45056" started-at="2020-07-24T01:13:37Z" finished-at="2020-07-24T01:14:22Z">
+      <class name="com.weather.testvagrant.phase3.MainRunnerTest">
+        <test-method status="PASS" signature="setUpDriver()[pri:0, instance:com.weather.testvagrant.phase3.MainRunnerTest@67b6d4ae]" name="setUpDriver" is-config="true" duration-ms="4105" started-at="2020-07-24T01:13:37Z" finished-at="2020-07-24T01:13:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpDriver -->
+        <test-method status="PASS" signature="setUpPages()[pri:0, instance:com.weather.testvagrant.phase3.MainRunnerTest@67b6d4ae]" name="setUpPages" is-config="true" duration-ms="27" started-at="2020-07-24T01:13:41Z" depends-on-methods="com.weather.testvagrant.phase1.BaseWebClass.setUpDriver" finished-at="2020-07-24T01:13:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpPages -->
+        <test-method status="PASS" signature="validatingPhase1()[pri:0, instance:com.weather.testvagrant.phase3.MainRunnerTest@67b6d4ae]" name="validatingPhase1" duration-ms="32306" started-at="2020-07-24T01:13:41Z" finished-at="2020-07-24T01:14:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingPhase1 -->
+        <test-method status="PASS" signature="validatingPhase2()[pri:0, instance:com.weather.testvagrant.phase3.MainRunnerTest@67b6d4ae]" name="validatingPhase2" duration-ms="1804" started-at="2020-07-24T01:14:14Z" finished-at="2020-07-24T01:14:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingPhase2 -->
+        <test-method status="PASS" signature="validatingPhase3()[pri:0, instance:com.weather.testvagrant.phase3.MainRunnerTest@67b6d4ae]" name="validatingPhase3" duration-ms="15" started-at="2020-07-24T01:14:15Z" finished-at="2020-07-24T01:14:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingPhase3 -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.weather.testvagrant.phase3.MainRunnerTest@67b6d4ae]" name="quitDriver" is-config="true" duration-ms="6787" started-at="2020-07-24T01:14:15Z" finished-at="2020-07-24T01:14:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- com.weather.testvagrant.phase3.MainRunnerTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.weather.testvagrant.phase3.MainRunnerTest -->
+</testng-results>
